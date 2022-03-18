@@ -40,7 +40,7 @@ description: mCODER Fields Terminology
 * **Tumor type**: What kind of tumor is it
 * **Tumor histology**: What method has the tumor been excised by, either biopsy or surgical resection, or unknown
 * **Clinical status**: The status as of the last update of the condition
-* **Body location code**: **** The location of the disease on the body
+* **Body location code**: The location of the disease on the body
 * **Body location side**: On which side of the body is the tumor located on
 * **Oncotree code**: An Oncotree code is a unique cancer type diagnosis code. Each cancer type diagnosis name has its own OncoTree code, an abbreviation of the full cancer type name. The OncoTree code is used to standardize cancer type diagnosis; it is developed by Memorial Sloan Kettering Cancer Center (MSK).\
   For example, the OncoTree code for the cancer “Stomach Adenocarcinoma” is “STAD”.
@@ -63,8 +63,6 @@ description: mCODER Fields Terminology
 * **Date**: The date of death
 * **Comments**: Any comments about the death of the patient
 
-
-
 ## <mark style="color:blue;">**Genomic**</mark>
 
 ### Genetic variant found
@@ -73,7 +71,7 @@ description: mCODER Fields Terminology
 * **Test name**: The name of the genetic test that was done
 * **Gene**: The gene targeted for mutation analysis. The HUGO Gene Nomenclature Committee (HGNC) gene symbol is required. For example, the official gene symbol for the human tumor suppressor gene on chromosome 10 is _PTEN_.
 * **cDNA**: Complementary DNA (cDNA) – in the context of an mRNA transcript sequence. Should be in the HGVS standard
-* **Protein**: Protein sequence; Should be in the HGVS standard. format expected: p####&#x20;
+* **Protein**: Protein sequence; Should be in the HGVS standard. format expected: p####
 * **Variant found ID**: The variation identifier assigned by HGVS; a unique integer value e.g., 151003
 * **Variant found NM number**: The HGVS expression (also known as the sequence variant) describes the sequence variation in genomic, DNA, and RNA coordinates. The sequence variant of the Mutation variant ID in the HGVS nomenclature standard. The format is “<mark style="color:blue;">reference</mark>:<mark style="color:orange;">description</mark>”\
   e.g. <mark style="color:blue;">NC\_000002.12</mark>:<mark style="color:orange;">g.47480740A>C</mark>
@@ -115,10 +113,10 @@ description: mCODER Fields Terminology
 
 * **Date of evaluation**: The vitals assessment date
 * **Location**: The hospital/clinic the blood was drawn
-* **Height (cm)**: The patient’s height in centimeters
+* **Height (cm)**: The patient’s height in centimetres
 * **Weight (kg)**: The patient’s weight in kilograms
-* **Blood pressure diastolic (mmHg)**: The diastolic reading referring to the blood pressure when the heart muscle is between contractions in millimeters of mercury; the relaxation phase
-* **Blood pressure systolic (mmHg)**: The systolic reading referring to the blood pressure when the heart muscle is contracting in millimeters of mercury; contraction phase
+* **Blood pressure diastolic (mmHg)**: The diastolic reading referring to the blood pressure when the heart muscle is between contractions in millimetres of mercury; the relaxation phase
+* **Blood pressure systolic (mmHg)**: The systolic reading referring to the blood pressure when the heart muscle is contracting in millimetres of mercury; contraction phase
 * **Comments**: Any comments about the patient’s vitals
 
 ### CBC
@@ -202,10 +200,6 @@ Fields for each family member (\*Pop out form):
 * **Number**: The number of skin lesion present
 * **Location**: The location of the skin lesion on the body
 * **Comments**: Any comments about the skin lesions
-
-
-
-
 
 Reference:\
 [http://hl7.org/fhir/us/mcode/artifacts.html](http://hl7.org/fhir/us/mcode/artifacts.html)
