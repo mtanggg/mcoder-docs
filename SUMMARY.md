@@ -1,7 +1,5 @@
 # Table of contents
 
-## mCODER
-
 * [About Us](README.md)
 
 ## Information
