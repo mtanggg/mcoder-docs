@@ -20,7 +20,7 @@ mCODER uses a secure login system, managed by Keycloak. Keycloak is an identity 
 
 ### Can anybody register for an mCODER account?
 
-No, only users with an email from UHN (uhn.ca, uhnresearch.ca) and UofT (utoronto.ca) are currently allowed.&#x20;
+No, only users with an email from UHN (uhn.ca, uhnresearch.ca) and UofT (utoronto.ca) are currently allowed.
 
 ### Do I need to be on a UHN network VPN to access?
 
@@ -64,7 +64,7 @@ If the options or choices provided does not apply, please enter the data in the 
 
 ### Where do I find help if I don’t understand the meaning of a field?
 
-Please refer to the Data Dictionary on the left panel. For each field there is a definition provided.&#x20;
+Please refer to the Data Dictionary on the left panel. For each field there is a definition provided.
 
 ### Do I have to re-enter the patient identifier in each tab?
 
@@ -82,4 +82,5 @@ Yes, fields are auto-saved, just enter the patient ID and you can continue where
 
 Yes, we are hopeful that more studies will apply the mCODE standard to their clinical abstraction and use the mCODER application to do so!
 
-## <mark style="color:blue;">****</mark>
+
+
