@@ -13,5 +13,6 @@ mCODER is a web-application that provides a responsive user-friendly interface f
 
 mCODE is short for Minimal Common Oncology Data Elements. It is a core set of minimum common clinical data standards developed and maintained by the American Society of Clinical Oncology (ASCO) mCODE Executive Committee.
 
+## Contact us
 
-
+Please email us at mcoder@uhn.ca if you have any questions or comments!
