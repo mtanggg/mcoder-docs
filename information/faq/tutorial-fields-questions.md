@@ -30,16 +30,14 @@ Type in the main tissue that has the disease in the text field and hit enter on 
 
 1. Click on the tissue with the cancer. A branch out of cancer names will display
    * The filled circles indicates that there are more cancer types that will continue to branch out once you click on it
-   * The empty circles are the end of the cancer type lineage
-     *
-       * Once you have found your cancer type name, click on the name and click the close button
-         * The cancer type along with its OncoTree code in brackets is now present in the text field
+   * The empty circles are the end of the cancer type lineage \*
+     * Once you have found your cancer type name, click on the name and click the close button
+       * The cancer type along with its OncoTree code in brackets is now present in the text field
 2. On the top left corner, there is a text field: you can enter a cancer type here, and there will be a drop-down list of suggestions that will appear
-   * Once selected, there will be a red line drawn from _Tissue_ to your specified cancer type on the OncoTree
-     *
-       * The end point of the red line will be the specified cancer type along with the name in red font. This is the same detailed cancer type name selected on the top left corner text field.
-       * _**NOTE**_: When hovering over a cancer type name, a grey box will appear with more detailed information. The abbreviation in brackets next to the detailed cancer type name is the code
-         * Once you have found your cancer type name, click on the name and click the close button
+   * Once selected, there will be a red line drawn from _Tissue_ to your specified cancer type on the OncoTree \*
+     * The end point of the red line will be the specified cancer type along with the name in red font. This is the same detailed cancer type name selected on the top left corner text field.
+     * _**NOTE**_: When hovering over a cancer type name, a grey box will appear with more detailed information. The abbreviation in brackets next to the detailed cancer type name is the code
+       * Once you have found your cancer type name, click on the name and click the close button
 
 The cancer type along with its OncoTree code in brackets is now present in the text field
 
@@ -49,8 +47,7 @@ At the bottom of the ‘Tumor Data’ section, there is a “Add Cancer” butto
 
 ### How do I enter the time period of the medication?
 
-Start by clicking on the Period text field, a popup calendar will be displayed with two calendars. The calendar on the left is for the start date and the calendar on the right is for the end date. The double arrows (<<, >>) are to go backwards and forwards in years. The single arrows (<, >) are to go backwards and forwards in months. The selected year and month are displayed at the top of each calendar. Once you have arrived at the year and month you desire, click on the calendar for the day. \*If you have to start all over in the time period selection, simply click the clear button at the bottom right corner. Once the start and end dates have been selected, click on the confirm button.\
-
+Start by clicking on the Period text field, a popup calendar will be displayed with two calendars. The calendar on the left is for the start date and the calendar on the right is for the end date. The double arrows (<<, >>) are to go backwards and forwards in years. The single arrows (<, >) are to go backwards and forwards in months. The selected year and month are displayed at the top of each calendar. Once you have arrived at the year and month you desire, click on the calendar for the day. \*If you have to start all over in the time period selection, simply click the clear button at the bottom right corner. Once the start and end dates have been selected, click on the confirm button.
 
 ![Medication time period popup calendar](../../.gitbook/assets/med\_period\_calen.png)
 
@@ -66,15 +63,15 @@ Start by clicking on the “Open the Pedigree Application” button. A popup win
 
 ![Pedigree family member](../../.gitbook/assets/pedigree\_fam\_mem)
 
-&#x20;                                           ![](../../.gitbook/assets/pedigree\_settings\_options) Add data for the selected family member
+![](../../.gitbook/assets/pedigree\_settings\_options) Add data for the selected family member
 
-&#x20;                                           ![](../../.gitbook/assets/pedigree\_older\_fam.png)Add the family member’s predecessors
+![](../../.gitbook/assets/pedigree\_older\_fam.png)Add the family member’s predecessors
 
-&#x20;                                           ![](../../.gitbook/assets/pedigree\_younger\_fam) Add the family member’s successors
+![](../../.gitbook/assets/pedigree\_younger\_fam) Add the family member’s successors
 
-&#x20;                                            ![](../../.gitbook/assets/pedigree\_add\_partner) Add a partner for the family member
+![](../../.gitbook/assets/pedigree\_add\_partner) Add a partner for the family member
 
-&#x20;                                            ![](../../.gitbook/assets/pedigree\_mem\_delete) Delete the family member
+![](../../.gitbook/assets/pedigree\_mem\_delete) Delete the family member
 
 #### **To enter data for a family member**:
 
@@ -92,57 +89,43 @@ Fill out the form. Under the “Age of Diagnosis” disease fields, there are di
 
 **To add siblings for the patient**: hover over the patient, labelled “me”. The options for the patient are slightly different, it has the add sibling icon ![](../../.gitbook/assets/pedigree\_siblings\_options).
 
-&#x20;                When hovering over the sibling icon, a set of icons for sibling type appears.
+When hovering over the sibling icon, a set of icons for sibling type appears.
 
 ![Add siblings options for the patient](../../.gitbook/assets/pedigree\_patient\_options)
 
-&#x20;                                                       ![Icon
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_bro)Add a brother
 
-Description automatically generated](../../.gitbook/assets/pedigree\_bro) Add a brother
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_sis) Add a sister
 
-&#x20;                                                       ![](../../.gitbook/assets/pedigree\_sis)  Add a sister
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_unsp\_sib)Add an unspecified sibling
 
-&#x20;                                                       ![A picture containing tool
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_frat\_twin) Add dizygotic/fraternal twins
 
-Description automatically generated](../../.gitbook/assets/pedigree\_unsp\_sib) Add an unspecified sibling
-
-&#x20;                                                       ![](../../.gitbook/assets/pedigree\_frat\_twin) Add dizygotic/fraternal twins
-
-&#x20;                                                      ![](../../.gitbook/assets/pedigree\_iden\_twin) Add monozygotic/identical twins
+&#x20;                                               ![](../../.gitbook/assets/pedigree\_iden\_twin) Add monozygotic/identical twins
 
 #### Other functionalities to help the user:
 
-&#x20;    ![](../../.gitbook/assets/pedigree\_undo) Undo
+![](../../.gitbook/assets/pedigree\_undo) Undo
 
-&#x20;    ![](../../.gitbook/assets/redo.png) Redo
+![](../../.gitbook/assets/redo.png) Redo
 
-&#x20;    ![](https://lh5.googleusercontent.com/P-F6rvG5rdByQadGBrQ\_-Ds6U25AYxrhRiNx2wfNQ2xbAPmd7SMIY\_gEvxgAoeD-58QOZeOSw7JaVYb9aEsVXxw7igPXr9sZT30g0QcTeLvlx7m\_O4-sm9Xueh9MRYuYvLNk0xc)  Reset
+![](https://lh5.googleusercontent.com/P-F6rvG5rdByQadGBrQ\_-Ds6U25AYxrhRiNx2wfNQ2xbAPmd7SMIY\_gEvxgAoeD-58QOZeOSw7JaVYb9aEsVXxw7igPXr9sZT30g0QcTeLvlx7m\_O4-sm9Xueh9MRYuYvLNk0xc) Reset
 
-&#x20;    ![](https://lh5.googleusercontent.com/DZ3eeoITCEuiGMefNR-7n8GBZmsCGVyb2FtAUnLRLFMRoJfm7RROkQ8dUfOhp7oxyseEcCydV7Q9qMjk\_umzAmeZ32wrE1B0ucuU9Qdrx\_R84RuvJiPhVSX5qzI\_\_5JP\_FS9-8I)  Expand the pedigree window to fullscreen
+![](https://lh5.googleusercontent.com/DZ3eeoITCEuiGMefNR-7n8GBZmsCGVyb2FtAUnLRLFMRoJfm7RROkQ8dUfOhp7oxyseEcCydV7Q9qMjk\_umzAmeZ32wrE1B0ucuU9Qdrx\_R84RuvJiPhVSX5qzI\_\_5JP\_FS9-8I) Expand the pedigree window to fullscreen
 
-&#x20;   ![Text
+To load the data
 
-Description automatically generated with low confidence](https://lh4.googleusercontent.com/ZEF8wED3YY4tB8rVfGMeYuYNJrVSdFq8abB63CdP2\_Ml34oLEFrpKwnnb5MwEYD0ybbNtiGiJnjBxwnDmUnEEmkArS7yreAJ951mEAjYU3JkI0ErQYeTRCYHuTDI3Jjb-OqNNCc)To load the data
+!\[Text, whiteboard
 
-&#x20;    ![Text, whiteboard
+To save the pedigree
 
-Description automatically generated](https://lh5.googleusercontent.com/4\_zhGYLb0GL3p3QflX-1hMvyW8u8Ketf2JnmDYXYqEaApVcHsn9ujGRbtb-gLq635SyKZqYqDG8PYBF3UytZIPSGMl5bqWoUe0HWDwy22kvODm4rqEv4VUXxcxLU0MeuhpRWZoc)To save the pedigree
+To print the pedigree
 
-&#x20;    ![Text
+To download the pedigree as a .svg file
 
-Description automatically generated with medium confidence](https://lh6.googleusercontent.com/RP5FOhx8\_\_OAPj7wIVtxQw3Wz-02QJkZ2NKC9tPp4X556OMhzDFBCqB0Y3ti0zmYi-Q4PotJEvY7TbW22ImwS7LSx5OjJ45VLnW7QzHPTzPOcWUcXxcQSM-OPjb6dp3qrT20s3E)To print the pedigree
+To download the pedigree as a .png file
 
-&#x20;    ![Text
-
-Description automatically generated](https://lh5.googleusercontent.com/NjuZHmA6YimlSbbyW3a0f1BoLxGcgRe8tKWErY5WQzUXbLXlo3gImIkl0F9axF4O3lHmh19RL6U-iPnd\_32TN20JRIk1Ufs99\_l-gef-gwt71Daifr2str7vDfOFmTS5AW1VyfI)To download the pedigree as a .svg file
-
-&#x20;    ![Text
-
-Description automatically generated with medium confidence](https://lh5.googleusercontent.com/C5flpjbtaTTe2M3gm-feB-ADM1iB3Olbg-3rGNnFvW3JAlRDE5HOdJcAZryI3C650gSR0\_x9M4M6qnlZ7XK1ohVKLcuM1ebnrN4rW1Ga0lodMrC8CVBgzpypLxBoy92qzN0RgpY)To download the pedigree as a .png file
-
-&#x20;     ![Shape, rectangle
-
-Description automatically generated](https://lh3.googleusercontent.com/WhRATc6QmSd0eVYHk4v5mhVCzFMjEBqRUtWzaeHGkxBTuO5OhnVw5ZFSmkneyFHXjZbmLRzduSJMfk83MfoanOVf6weL4dUwBsR6kd1CfuRg41hGBlH8cDGD3ZURPFM2jiDspy4) To search for a family member
+&#x20;To search for a family member
 
 #### **How to use the search feature?**
 
