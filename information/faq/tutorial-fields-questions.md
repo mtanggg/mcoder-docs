@@ -93,11 +93,11 @@ When hovering over the sibling icon, a set of icons for sibling type appears.
 
 ![Add siblings options for the patient](../../.gitbook/assets/pedigree\_patient\_options)
 
-&#x20;                                                ![](../../.gitbook/assets/pedigree\_bro)Add a brother
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_bro)  Add a brother
 
-&#x20;                                                ![](../../.gitbook/assets/pedigree\_sis) Add a sister
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_sis)  Add a sister
 
-&#x20;                                                ![](../../.gitbook/assets/pedigree\_unsp\_sib)Add an unspecified sibling
+&#x20;                                                ![](../../.gitbook/assets/pedigree\_unsp\_sib) Add an unspecified sibling
 
 &#x20;                                                ![](../../.gitbook/assets/pedigree\_frat\_twin) Add dizygotic/fraternal twins
 
