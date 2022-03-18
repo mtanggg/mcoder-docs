@@ -9,12 +9,12 @@ description: mCODER Fields Terminology
 ### General Information
 
 * **Patient identifier**: A unique identifier for the patient. The format of the identifier starts off with an acronym for the study\
-  e.g., The study _Neurofibromatosis type 1_ would be NF-##-##
-* **Study**: What is the study the patient is recruited/undergoing for
-* **Date of birth**: The date of birth of the patient with only the year and month
+  e.g., The _Neurofibromatosis type 1_ study would be NF-##-##
+* **Study**: What is the study the patient is recruited/undergoing/participating in
+* **Date of birth**: The patient's date of birth. Only the year and month
 * **Gender**: The gender of the patient
 * **Race**: The racial category of the patient
-* **Recruitment location: City or Postal/Zip code**_:_ The city or postal code of the location where the patient was recruited for the study
+* **Recruitment location: City or Postal/Zip code**_:_ The city or postal code of the hospital/centre/clinic site where the patient was recruited for the study
 * **Institution**: The hospital/centre/clinic site where the patient was recruited for the study
 * **Family ID**_**:**_ The family identifier the patient may be affiliated with
 
@@ -39,7 +39,7 @@ description: mCODER Fields Terminology
 * **Date of diagnosis**: The date that first confirmed the diagnosis of the disease
 * **Tumor type**: What kind of tumor is it
 * **Tumor histology**: What method has the tumor been excised by, either biopsy or surgical resection, or unknown
-* **Clinical status**: The status as of the last update of the condition
+* **Clinical status**: The patient's status as of the last update of the condition
 * **Body location code**: The location of the disease on the body
 * **Body location side**: On which side of the body is the tumor located on
 * **Oncotree code**: An Oncotree code is a unique cancer type diagnosis code. Each cancer type diagnosis name has its own OncoTree code, an abbreviation of the full cancer type name. The OncoTree code is used to standardize cancer type diagnosis; it is developed by Memorial Sloan Kettering Cancer Center (MSK).\
@@ -201,6 +201,10 @@ Fields for each family member (\*Pop out form):
 * **Location**: The location of the skin lesion on the body
 * **Comments**: Any comments about the skin lesions
 
+
+
+
+
 Reference:\
 [http://hl7.org/fhir/us/mcode/artifacts.html](http://hl7.org/fhir/us/mcode/artifacts.html)
 
@@ -213,3 +217,6 @@ Reference:\
 [https://mcodeinitiative.github.io/ValueSet-onco-core-TNMPrimaryTumorCategoryVS.html](https://mcodeinitiative.github.io/ValueSet-onco-core-TNMPrimaryTumorCategoryVS.html)
 
 [http://varnomen.hgvs.org/bg-material/simple/](http://varnomen.hgvs.org/bg-material/simple/)
+
+
+
