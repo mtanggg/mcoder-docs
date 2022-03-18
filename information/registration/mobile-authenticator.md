@@ -6,8 +6,9 @@ To use mCODER, the user must register for an account. During registration, it wi
 
 Depending on the mobile device the user has:
 
-For Android users, please go to the Google Play Store app\
-\*\*\*\*For iPhone users, please go to the App Store app\
+* For Android users, please go to the Google Play Store app
+* For iPhone users, please go to the App Store app
+
 Search for “Google Authenticator” OR “FreeOTP”\
 \* Both apps are free to download
 
