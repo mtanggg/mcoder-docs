@@ -115,8 +115,6 @@ When hovering over the sibling icon, a set of icons for sibling type appears.
 
 To load the data
 
-!\[Text, whiteboard
-
 To save the pedigree
 
 To print the pedigree
@@ -125,7 +123,7 @@ To download the pedigree as a .svg file
 
 To download the pedigree as a .png file
 
-&#x20;To search for a family member
+To search for a family member
 
 #### **How to use the search feature?**
 
