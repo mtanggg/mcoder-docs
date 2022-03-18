@@ -30,11 +30,11 @@ Type in the main tissue that has the disease in the text field and hit enter on 
 
 1. Click on the tissue with the cancer. A branch out of cancer names will display
    * The filled circles indicates that there are more cancer types that will continue to branch out once you click on it
-   * The empty circles are the end of the cancer type lineage \*
+   * The empty circles are the end of the cancer type lineage
      * Once you have found your cancer type name, click on the name and click the close button
        * The cancer type along with its OncoTree code in brackets is now present in the text field
 2. On the top left corner, there is a text field: you can enter a cancer type here, and there will be a drop-down list of suggestions that will appear
-   * Once selected, there will be a red line drawn from _Tissue_ to your specified cancer type on the OncoTree \*
+   * Once selected, there will be a red line drawn from _Tissue_ to your specified cancer type on the OncoTree
      * The end point of the red line will be the specified cancer type along with the name in red font. This is the same detailed cancer type name selected on the top left corner text field.
      * _**NOTE**_: When hovering over a cancer type name, a grey box will appear with more detailed information. The abbreviation in brackets next to the detailed cancer type name is the code
        * Once you have found your cancer type name, click on the name and click the close button
@@ -113,17 +113,29 @@ When hovering over the sibling icon, a set of icons for sibling type appears.
 
 ![](https://lh5.googleusercontent.com/DZ3eeoITCEuiGMefNR-7n8GBZmsCGVyb2FtAUnLRLFMRoJfm7RROkQ8dUfOhp7oxyseEcCydV7Q9qMjk\_umzAmeZ32wrE1B0ucuU9Qdrx\_R84RuvJiPhVSX5qzI\_\_5JP\_FS9-8I) Expand the pedigree window to fullscreen
 
-To load the data
+![Text
 
-To save the pedigree
+Description automatically generated with low confidence](https://lh4.googleusercontent.com/ZEF8wED3YY4tB8rVfGMeYuYNJrVSdFq8abB63CdP2\_Ml34oLEFrpKwnnb5MwEYD0ybbNtiGiJnjBxwnDmUnEEmkArS7yreAJ951mEAjYU3JkI0ErQYeTRCYHuTDI3Jjb-OqNNCc)To load the data
 
-To print the pedigree
+![Text, whiteboard
 
-To download the pedigree as a .svg file
+Description automatically generated](https://lh5.googleusercontent.com/4\_zhGYLb0GL3p3QflX-1hMvyW8u8Ketf2JnmDYXYqEaApVcHsn9ujGRbtb-gLq635SyKZqYqDG8PYBF3UytZIPSGMl5bqWoUe0HWDwy22kvODm4rqEv4VUXxcxLU0MeuhpRWZoc) To save the pedigree
 
-To download the pedigree as a .png file
+![Text
 
-To search for a family member
+Description automatically generated with medium confidence](https://lh6.googleusercontent.com/RP5FOhx8\_\_OAPj7wIVtxQw3Wz-02QJkZ2NKC9tPp4X556OMhzDFBCqB0Y3ti0zmYi-Q4PotJEvY7TbW22ImwS7LSx5OjJ45VLnW7QzHPTzPOcWUcXxcQSM-OPjb6dp3qrT20s3E) To print the pedigree
+
+![Text
+
+Description automatically generated](https://lh5.googleusercontent.com/NjuZHmA6YimlSbbyW3a0f1BoLxGcgRe8tKWErY5WQzUXbLXlo3gImIkl0F9axF4O3lHmh19RL6U-iPnd\_32TN20JRIk1Ufs99\_l-gef-gwt71Daifr2str7vDfOFmTS5AW1VyfI) To download the pedigree as a .svg file
+
+![Text
+
+Description automatically generated with medium confidence](https://lh5.googleusercontent.com/C5flpjbtaTTe2M3gm-feB-ADM1iB3Olbg-3rGNnFvW3JAlRDE5HOdJcAZryI3C650gSR0\_x9M4M6qnlZ7XK1ohVKLcuM1ebnrN4rW1Ga0lodMrC8CVBgzpypLxBoy92qzN0RgpY) To download the pedigree as a .png file
+
+![Shape, rectangle
+
+Description automatically generated](https://lh3.googleusercontent.com/WhRATc6QmSd0eVYHk4v5mhVCzFMjEBqRUtWzaeHGkxBTuO5OhnVw5ZFSmkneyFHXjZbmLRzduSJMfk83MfoanOVf6weL4dUwBsR6kd1CfuRg41hGBlH8cDGD3ZURPFM2jiDspy4)To search for a family member
 
 #### **How to use the search feature?**
 
@@ -132,3 +144,6 @@ Type in the family member e.g., Father and if that person has a pedigree box, th
 ![BEFORE: When the popup data form for family member has not yet been filled.](https://lh4.googleusercontent.com/X7GIvxaKkLMBrPR3s5oyWawF8MkYiSf-xrVds\_5ElH\_E5R6Y129Sb\_KmV4ypq\_RtWGUbDMZKQUAcS1ubAGN8eL09O60OjK4KP5MOTrRX1WTMKiLDsmMyw3mxuaI7JBTP\_psQ9PQ)
 
 ![AFTER: When the popup data form for the family member has been filled out.](https://lh3.googleusercontent.com/IPRjY3YH2ez9fFY\_FndaiWNVNi2IEwQGiCvC1x8Dz8bkaZ5yaZofaaTTULCVUSMlJhGnGAlQpp\_Rk4H8qoWBn7nO9\_BHHjqjQpX5GV7VXSyfJFXNCC3nKi9zndC3cGlyhhgvh0Q)
+
+
+
