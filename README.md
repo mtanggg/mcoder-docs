@@ -1,5 +1,5 @@
 ---
-description: 'App: https://mcoder.ca'
+description: 'App: https://mcoder.ca | Docs: https://pughlab.gitbook.io/mcoder/'
 cover: .gitbook/assets/default-page-cover-K4LPTE6Y.png
 coverY: 0
 ---
