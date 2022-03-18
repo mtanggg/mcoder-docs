@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
-coverY: 0
----
-
 # 🗝 Mobile Authenticator
 
 To use mCODER, the user must register for an account. During registration, it will request the user to download a Mobile Authenticator app on the user’s mobile device. There are two app options available for the user to download: FreeOTP or Google Authenticator
@@ -13,8 +7,8 @@ To use mCODER, the user must register for an account. During registration, it wi
 Depending on the mobile device the user has:
 
 For Android users, please go to the Google Play Store app\
-****For iPhone users, please go to the App Store app\
-&#x20;     Search for “Google Authenticator” OR “FreeOTP”\
+\*\*\*\*For iPhone users, please go to the App Store app\
+Search for “Google Authenticator” OR “FreeOTP”\
 \* Both apps are free to download
 
 ### **Google Authenticator**
