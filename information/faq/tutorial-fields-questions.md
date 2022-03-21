@@ -4,19 +4,19 @@
 
 ### How do I select a _Date of Birth_ date?
 
-Click on the date text field. A popup calendar will appear. Click through the double arrows (<<, >>) to find the birth year, then select the month. Click confirm.
+Click on the date text field. A popup calendar will appear. Click through the double arrows (<<, >>) to find the birth year, then select the month. Click `confirm`.
 
 ![Date of birth popup calendar](../../.gitbook/assets/calen\_dob.png)
 
 ### How do I select a date?
 
-Click onto the text field, a popup calendar will appear. The double arrows (<<, >>) are to go backwards and forwards in years. The single arrows (<, >) are to go backwards and forwards in months. The selected year and month are displayed at the top of the popup. Once you have arrived at the year and month you desire, click on the calendar for the day. Once the day is selected, click on the confirm button.
+Click onto the text field, a popup calendar will appear. The double arrows (<<, >>) are to go backwards and forwards in years. The single arrows (<, >) are to go backwards and forwards in months. The selected year and month are displayed at the top of the popup. Once you have arrived at the year and month you desire, click on the calendar for the day. Once the day is selected, click on the `confirm` button.
 
 ![Date of evaluation popup calendar](../../.gitbook/assets/calen\_date\_eval.png)
 
 ### The patient has more than one comorbid condition, is there an option to add another condition for the same patient?
 
-Yes, scroll further down on the ‘Comorbid Condition’ section; at the end of this section, there is a ‘Add a comorbid condition’ button.
+Yes, scroll further down on the ‘Comorbid Condition’ section; at the end of this section, there is an `Add a comorbid condition` button.
 
 ### What is an OncoTree Code?
 
@@ -24,7 +24,7 @@ An Oncotree code is a unique cancer type diagnosis code. Each cancer type diagno
 
 ### How do I figure out the OncoTree Code for a patient?
 
-Type in the main tissue that has the disease in the text field and hit enter on your keyboard; a new popup window will display the OncoTree. The popup window will also display if you click on the “Open the OncoTree” button.
+Type in the main tissue that has the disease in the text field and hit enter on your keyboard; a new popup window will display the OncoTree. The popup window will also display if you click on the `Open the OncoTree` button.
 
 #### Within the OncoTree popup, there are two routes to explore:
 
@@ -38,18 +38,17 @@ Type in the main tissue that has the disease in the text field and hit enter on 
      * The end point of the red line will be the specified cancer type along with the name in red font. This is the same detailed cancer type name selected on the top left corner text field.
      * _**NOTE**_: When hovering over a cancer type name, a grey box will appear with more detailed information. The abbreviation in brackets next to the detailed cancer type name is the code
        * Once you have found your cancer type name, click on the name and click the close button
+         * The cancer type along with its OncoTree code in brackets is now present in the text field
 
-The cancer type along with its OncoTree code in brackets is now present in the text field
+### What if I have more than one cancer type to enter for a patient?
 
-### What if I have more than one cancer to enter for a patient?
+At the bottom of the ‘Tumor Data’ section, there is an `Add Cancer` button, this will provide you with a new ‘Tumor Data’ section to fill out for the patient.
 
-At the bottom of the ‘Tumor Data’ section, there is a “Add Cancer” button, this will provide you with a new ‘Tumor Data’ section to fill out for the patient.
+### How do I enter the medication time period?
 
-### How do I enter the time period of the medication?
+Start by clicking on the Period text field, a popup calendar will be displayed with two calendars side by side. The calendar on the left is for the start date and the calendar on the right is for the end date. The double arrows (<<, >>) are to go backwards and forwards in years. The single arrows (<, >) are to go backwards and forwards in months. The selected year and month are displayed at the top of each calendar. Once you have arrived at the year and month you desire, click on the calendar for the day. \*If you have to start all over in the time period selection, simply click the `clear` button at the bottom right corner. Once the start and end dates have been selected, click on the `confirm` button.
 
-Start by clicking on the Period text field, a popup calendar will be displayed with two calendars. The calendar on the left is for the start date and the calendar on the right is for the end date. The double arrows (<<, >>) are to go backwards and forwards in years. The single arrows (<, >) are to go backwards and forwards in months. The selected year and month are displayed at the top of each calendar. Once you have arrived at the year and month you desire, click on the calendar for the day. \*If you have to start all over in the time period selection, simply click the clear button at the bottom right corner. Once the start and end dates have been selected, click on the confirm button.
-
-![Medication time period popup calendar](../../.gitbook/assets/med\_period\_calen.png)
+![Medication treatment duration popup calendar](../../.gitbook/assets/med\_period\_calen.png)
 
 ### Why is there a family pedigree to be filled out?
 
@@ -57,7 +56,7 @@ The family pedigree section is not part of the mCODE standard. However, it is es
 
 ### How do I use the Family Pedigree tab?
 
-Start by clicking on the “Open the Pedigree Application” button. A popup window will be displayed. As a reminder to the user, the patient identifier is again displayed at the top of the popup window. The family pedigree itself is in the grey section of the window. A family pedigree is started for the user with a father, mother and the patient. Hovering over a family member, a grey box will appear.
+Start by clicking on the `Open the Pedigree Application` button. A popup window will be displayed. The family pedigree itself is in the grey section of the popup window. A family pedigree is started for the user with a father, mother and the patient (labelled 'me'). Hovering over a family member, a grey box will appear.
 
 #### These are the options when hovering over a family member:
 
@@ -65,13 +64,13 @@ Start by clicking on the “Open the Pedigree Application” button. A popup win
 
 ![](../../.gitbook/assets/pedigree\_settings\_options) Add data for the selected family member
 
-![](../../.gitbook/assets/pedigree\_older\_fam.png)Add the family member’s predecessors
+![](../../.gitbook/assets/pedigree\_older\_fam.png) Add the family member’s predecessors
 
 ![](../../.gitbook/assets/pedigree\_younger\_fam) Add the family member’s successors
 
-![](../../.gitbook/assets/pedigree\_add\_partner) Add a partner for the family member
+![](../../.gitbook/assets/pedigree\_add\_partner)  Add a partner for the family member
 
-![](../../.gitbook/assets/pedigree\_mem\_delete) Delete the family member
+![](../../.gitbook/assets/pedigree\_mem\_delete)   Delete the family member
 
 #### **To enter data for a family member**:
 
@@ -79,7 +78,7 @@ Click on the settings icon ![](../../.gitbook/assets/pedigree\_add\_data) to ent
 
 ![Pedigree family member form](../../.gitbook/assets/pedigree\_form)
 
-Fill out the form. Under the “Age of Diagnosis” disease fields, there are different colours indicated next to each field. Depending on if any of the fields for the listed diseases are filled out, upon closing the window, the pedigree box will become the same colour as the disease. If more than one of the Age of Diagnosis disease fields are filled out, the pedigree box will be coloured with all the colours of these completed fields. If none of the fields for the diseases are filled out, the pedigree box will not change colour and will remain white.
+Fill out the form. Under the 'Age of Diagnosis' disease fields, there are different colours indicated next to each field. Depending on if any of the fields for the listed diseases are filled out, upon closing the window, the pedigree box will become the same colour as the disease. If more than one of the Age of Diagnosis disease fields are filled out, the pedigree box will be coloured with all the colours of these completed fields. If none of the fields for the diseases are filled out, the pedigree box will not change colour and will remain white.
 
 * When these disease fields are filled out, the disease name and age will be displayed underneath the pedigree box. Refer to the image below for an example
 
@@ -87,7 +86,7 @@ Fill out the form. Under the “Age of Diagnosis” disease fields, there are di
 
 **To add family members:** e.g., to add grandparents on the mother’s side: hover over the mother and click on the ![](../../.gitbook/assets/pedigree\_older\_fam.png)icon.
 
-**To add siblings for the patient**: hover over the patient, labelled “me”. The options for the patient are slightly different, it has the add sibling icon ![](../../.gitbook/assets/pedigree\_siblings\_options).
+**To add siblings for the patient**: hover over the patient, labelled 'me'. The options for the patient are slightly different, it has the add sibling icon ![](../../.gitbook/assets/pedigree\_siblings\_options).
 
 When hovering over the sibling icon, a set of icons for sibling type appears.
 
@@ -139,7 +138,7 @@ Description automatically generated](https://lh3.googleusercontent.com/WhRATc6Qm
 
 #### **How to use the search feature?**
 
-Type in the family member e.g., Father and if that person has a pedigree box, their data will be displayed below the functionality buttons
+Type in the family member e.g., Father and if that person has a pedigree box created already, their data will be displayed below the functionality buttons.
 
 ![BEFORE: When the popup data form for family member has not yet been filled.](https://lh4.googleusercontent.com/X7GIvxaKkLMBrPR3s5oyWawF8MkYiSf-xrVds\_5ElH\_E5R6Y129Sb\_KmV4ypq\_RtWGUbDMZKQUAcS1ubAGN8eL09O60OjK4KP5MOTrRX1WTMKiLDsmMyw3mxuaI7JBTP\_psQ9PQ)
 
