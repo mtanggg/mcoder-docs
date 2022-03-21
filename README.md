@@ -1,7 +1,5 @@
 ---
 description: mCODER is a web-application for clinical data abstraction
-cover: .gitbook/assets/default-page-cover-K4LPTE6Y.png
-coverY: 0
 ---
 
 # About Us
