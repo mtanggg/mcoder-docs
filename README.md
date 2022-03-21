@@ -1,10 +1,14 @@
 ---
-description: 'App: https://mcoder.ca | Docs: https://pughlab.gitbook.io/mcoder/'
+description: mCODER is a web-application for clinical data abstraction
 cover: .gitbook/assets/default-page-cover-K4LPTE6Y.png
 coverY: 0
 ---
 
 # About Us
+
+| Application                            | Documentation                                                            |
+| -------------------------------------- | ------------------------------------------------------------------------ |
+| [https://mcoder.ca](https://mcoder.ca) | [https://pughlab.gitbook.io/mcoder/](https://pughlab.gitbook.io/mcoder/) |
 
 ## What is mCODER?
 
